@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @wpbrq
+- 👋 Hi, I’m Washington Peroni, Data and Cloud Engineer
 - 👀 I’m interested in solve problems with software
-- 🌱 I’m currently learning clouding computing AWS, Azure, GCP
-- 💞️ I’m looking to collaborate on Moderno Datalake projects
+- 🌱 I’m currently improving my skills in clouding computing AWS, Azure, GCP, in best pratices and clean coding for cloud.
+- 💞️ I’m looking to collaborate on Modern Datalake projects, CI/CD automation, and figure out how get ROI with cloud fastly
 - 📫 How to reach me wperoni@brq.com
 
 <!---
